@@ -12,11 +12,16 @@ Con esta aplicación, los usuarios pueden agregar, actualizar y eliminar gastos,
 - 🎨 **Tailwind CSS**
 
 ## 🛠️ Funcionalidades  
-✅ **Agregar gastos** con nombre, monto, categoría y fecha  
+✅ **Agregar gastos** con nombre, monto, categoría y fecha 
+
 ✅ **Actualizar gastos**
+
 ✅ **Eliminar gastos** 
-✅ **Filtrar gastos** por categorías como 🍔 Comida, 📺 Suscripciones, 🚗 Transporte, etc.  
+
+✅ **Filtrar gastos** por categorías como 🍔 Comida, 📺 Suscripciones, 🚗 Transporte, etc. 
+
 ✅ **Ver saldo restante**  
+
 ✅ **Resetear la aplicación** y empezar desde cero   
 
 ## 📂 Instalación y ejecución  
